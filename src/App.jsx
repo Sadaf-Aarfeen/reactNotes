@@ -50,7 +50,7 @@ const App = () => {
             ></textarea>
 
           <button 
-            className="border-2 bg-white text-black hover:bg-rose-200 font-bold py-3 rounded-full text-xl cursor-pointer">
+            className="border-2 bg-white text-black hover:bg-rose-200 active:scale-95 font-bold py-3 rounded-full text-xl cursor-pointer">
             Add Note
           </button>
 
